@@ -27,8 +27,21 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % AUTHOR:                                                     %
 %    Kunal Kumar,                                             %
-%    Copyright, 2016                                          %
+%    Copyright, 2019                                          %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Copyright Notice: Permission to use, copy, modify, and distribute this 
+% application and its components for educational, research, and not for 
+% profit purposes, without a signed licensing agreement, is hereby granted,
+% provided that the above copyright notice, this paragraph and the 
+% following paragraph appear in all copies, modifications, and distributions.
+%
+% Disclaimer: This application has been developed solely for the purpose of
+% research and education, use of this application for clinical dosimetry is
+% strongly discouraged without a complete validation and regulatory 
+% approval. In no event shall the author of this application be liable to 
+% any party for direct, indirect, special, incidental, or consequential 
+% damages arising out of the use of this application. 
 
 function [varargout] = MicrofocusSpec(varargin)
 
