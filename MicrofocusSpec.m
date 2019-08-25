@@ -3,13 +3,13 @@
 %                                                             %
 % INPUT PARAMETERS:                                           % 
 %                                                             %
-%    varargout{1}: Maximum energy of the spectrum. A valid    %
+%    varargin{1}: Maximum energy of the spectrum. A valid     %
 %    range between 10keV to 90keV.                            %
 %                                                             %
-%    varargout{2}: Normalize spectrum. A boolean value, 1     %
+%    varargin{2}: Normalize spectrum. A boolean value, 1      %
 %    to enable normalization and 0 to disable normalization.  %
 %                                                             %
-%    varargout{3} ... varargout{n}: Add beam filteration      %
+%    varargin{3} ... varargin{n}: Add beam filteration        %
 %    element symbol as a string followed by its thickness     %
 %    in mm.                                                   %
 %                                                             %
@@ -27,7 +27,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % AUTHOR:                                                     %
 %    Kunal Kumar,                                             %
-%    Copyright, 2019                                          %
+%    Copyright, 2016                                          %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 % Copyright Notice: Permission to use, copy, modify, and distribute this 
