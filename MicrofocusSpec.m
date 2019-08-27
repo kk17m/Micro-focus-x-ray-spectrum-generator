@@ -27,7 +27,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % AUTHOR:                                                     %
 %    Kunal Kumar,                                             %
-%    Copyright, 2016                                          %
+%    Copyright, 2019                                          %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 % Copyright Notice: Permission to use, copy, modify, and distribute this 
